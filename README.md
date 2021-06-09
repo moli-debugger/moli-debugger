@@ -9,7 +9,13 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 --> 
 
-- 🔭 I’m currently working as Backend Developer
+- 🔭 I’m currently working as Backend Developer <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com//bkqtuigh.json"
+    trigger="loop-on-hover"
+    colors="primary:#121331,secondary:#08a88a"
+    style="width:250px;height:250px">
+</lord-icon>
 - 🌱 I’m currently pursuring BSC-IT Degree in Sri Krishna Arts and Science College
 - 👯 I’m looking to collaborate in AI, Web development, Desktop application development, Python projects
 - 🤔 I’m looking for help with ...
