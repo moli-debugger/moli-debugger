@@ -51,9 +51,9 @@ Here are some ideas to get you started: -->
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </div>
  <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moli-debugger&show_icons=true&locale=en&layout=compact" alt="moli-debugger" /></p>
 
 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohamed-ali-a543a11a3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohamed-ali-a543a11a3?trk=profile-badge">Mohamed Ali</a></div>
               
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moli-debugger&theme=tokyonight)
