@@ -22,6 +22,7 @@ Here are some ideas to get you started: -->
 <a href="https://www.linkedin.com/in/mohamed-ali-a543a11a3/"></a>
 <a href="https://www.qwiklabs.com/public_profiles/baf7a891-97ff-4ceb-8830-80e705b2cb76"></i>
 
+<a align="left" href="https://app.daily.dev/moliDebugger"><img src="https://api.daily.dev/devcards/9970df822db74d66b2282e1168a0da1b.png?r=3fk" width="400" alt="Mohamed Ali's Dev Card"/></a>
 <h1 align="center">Skills</h1>
 
 
@@ -55,5 +56,7 @@ Here are some ideas to get you started: -->
 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohamed-ali-a543a11a3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohamed-ali-a543a11a3?trk=profile-badge">Mohamed Ali</a></div>
+
+
               
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moli-debugger&theme=white)
